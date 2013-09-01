@@ -3,21 +3,6 @@ DrupalAT-LCARS
 
 DRUPAL LCARS - AdaptiveTheme SubTheme Custom CSS for Star Trek LCARS Interface 
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
-
-
 Introduction:
 
 The DrupalAT-LCARS theme is an effort to create an updated look to Michael Okuda's LCARS interface design made famous and introduced in Star Trek: The Next Generation as a control panel for various computer interfaces on the ship. As a fan of Star Trek and as a gamer on Star Trek Online, I decided to create a Drupal theme that mimics the design of the new interface in Star Trek Online. I chose Adaptive Theme as my framework so that the theme can be used in responsive web designs for multiple devices.
